@@ -23,4 +23,4 @@ allure-report/
 Thumbs.db
 
 # Logs
-.. log
+.log
